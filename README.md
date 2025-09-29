@@ -1,4 +1,4 @@
-# Pemrograman Mobile – Tugas Conditional Statement
+# Pemrograman Mobile – Tugas Entry Data
 
 ## Identitas Mahasiswa
 
